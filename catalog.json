@@ -1,0 +1,12 @@
+{
+  "title": "Edge CaaS Test catalog",
+  "owners": { "demo": ["all"] },
+  "editors": {},
+  "viewers": {},
+  "previewers": {},
+  "copyright": {
+    "license": "MIT",
+    "fork": true
+  },
+  "catalogInfo": {}
+}
